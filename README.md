@@ -10,9 +10,15 @@
 
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## Overview
+## Why this project?
 
-This repository documents the MAYUNDO USB Worm, a malware widely spreading through removable USB drives in Central and Southern Africa.
+The MAYUNDO USB Worm is one of the most widespread USB malware families observed across several universities and public computers in parts of Central, Eastern and Southern Africa.
+
+Despite its prevalence, very little public technical documentation exists.
+
+This repository aims to document its behavior and help users recover safely from an infection.
+
+## Overview
 
 The project explains:
 
