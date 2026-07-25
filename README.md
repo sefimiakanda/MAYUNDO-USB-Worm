@@ -72,6 +72,15 @@ MAYUNDO-USB-Worm
 ├── images             # Captures et diagrammes
 ├── LICENSE
 └── SECURITY.md
+## Screenshots
+
+### Infected USB
+
+![Infected USB](images/infection.png)
+
+### Fake Explorer
+
+![USB Explorer](images/usb-explorer.png)
 
 ## Table of Contents
 
