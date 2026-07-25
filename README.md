@@ -23,3 +23,26 @@ The project explains:
 - how to remove it
 
 - how to recover hidden files
+
+> [!WARNING]
+> This repository is intended for **educational, research, and defensive cybersecurity purposes only**.
+>
+> It does **not** contain malware or malicious code.
+>
+> The objective is to understand the MAYUNDO USB Worm and learn how to detect, remove, and prevent infections.
+
+## Table of Contents
+
+- Overview
+
+- Infection Workflow
+
+- Technical Analysis
+
+- Indicators of Compromise
+
+- Removal
+
+- Recovery
+
+- Prevention
