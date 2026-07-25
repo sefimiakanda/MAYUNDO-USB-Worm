@@ -88,6 +88,16 @@ MAYUNDO-USB-Worm
 
 ![USB Explorer](images/usb-explorer.png)
 
+## Documentation
+
+| Document           | Description                  |
+| ------------------ | ---------------------------- |
+| Technical Analysis | Fonctionnement interne       |
+| Removal Guide      | Désinfection                 |
+| IOC                | Indicateurs de compromission |
+| FAQ                | Questions fréquentes         |
+
+
 ## Table of Contents
 
 - Overview
