@@ -53,6 +53,7 @@ A[Clean USB Drive]
 --> H[Next USB Gets Infected]
 ```
 ### Key Facts
+
 | Property       | Value            |
 | -------------- | ---------------- |
 | Malware Name   | MAYUNDO          |
@@ -63,6 +64,14 @@ A[Clean USB Drive]
 | First Observed | Unknown          |
 | Risk Level     | Medium           |
 
+### Repository Structure
+MAYUNDO-USB-Worm
+│
+├── README.md          # Documentation principale
+├── docs               # Analyses détaillées
+├── images             # Captures et diagrammes
+├── LICENSE
+└── SECURITY.md
 
 ## Table of Contents
 
