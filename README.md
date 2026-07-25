@@ -52,6 +52,17 @@ A[Clean USB Drive]
 
 --> H[Next USB Gets Infected]
 ```
+### Key Facts
+| Property       | Value            |
+| -------------- | ---------------- |
+| Malware Name   | MAYUNDO          |
+| Category       | USB Worm         |
+| Target OS      | Windows          |
+| Propagation    | USB Flash Drives |
+| Language       | Unknown          |
+| First Observed | Unknown          |
+| Risk Level     | Medium           |
+
 
 ## Table of Contents
 
