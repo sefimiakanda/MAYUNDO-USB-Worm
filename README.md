@@ -73,9 +73,9 @@ A[Clean USB Drive]
 ### Repository Structure
 MAYUNDO-USB-Worm
 │
-├── README.md          # Documentation principale
-├── docs               # Analyses détaillées
-├── images             # Captures et diagrammes
+├── README.md          
+├── docs              
+├── images             
 ├── LICENSE
 └── SECURITY.md
 ## Screenshots
@@ -90,26 +90,15 @@ MAYUNDO-USB-Worm
 
 ## Documentation
 
-| Document           | Description                  |
-| ------------------ | ---------------------------- |
-| Technical Analysis | Fonctionnement interne       |
-| Removal Guide      | Désinfection                 |
-| IOC                | Indicateurs de compromission |
-| FAQ                | Questions fréquentes         |
+| Document | Description |
+|----------|-------------|
+| 01-Introduction | Project overview |
+| 02-Technical-Analysis | Internal malware behavior |
+| 03-Infection-Workflow | Complete infection lifecycle |
+| 04-Persistence | Windows persistence mechanisms |
+| 05-Indicators-of-Compromise | Detection artifacts |
+| 06-Removal-Guide | Safe malware removal |
+| 07-Prevention | Best security practices |
+| 08-FAQ | Frequently Asked Questions |
+| 09-References | Research sources |
 
-
-## Table of Contents
-
-- Overview
-
-- Infection Workflow
-
-- Technical Analysis
-
-- Indicators of Compromise
-
-- Removal
-
-- Recovery
-
-- Prevention
