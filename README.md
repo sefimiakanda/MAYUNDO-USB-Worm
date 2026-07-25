@@ -31,6 +31,28 @@ The project explains:
 >
 > The objective is to understand the MAYUNDO USB Worm and learn how to detect, remove, and prevent infections.
 
+## Infection Workflow
+
+```mermaid
+flowchart TD
+
+A[Clean USB Drive]
+
+--> B[Inserted into Infected Computer]
+
+--> C[Malware Copies Itself]
+
+--> D[Original Folders Hidden]
+
+--> E[USB-Explorer.exe Created]
+
+--> F[Victim Executes File]
+
+--> G[Computer Infected]
+
+--> H[Next USB Gets Infected]
+```
+
 ## Table of Contents
 
 - Overview
