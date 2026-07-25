@@ -88,8 +88,14 @@ MAYUNDO-USB-Worm
 │   └── 09-References.md
 │
 ├── images
+│   ├── banner.png
+│   ├── infection.png
+│   ├── recovery.png
+│   └── usb-explorer.png
 │
-└── LICENSE
+├── LICENSE
+└── SECURITY.md
+
 ```
 
 ---
